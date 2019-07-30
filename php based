@@ -1,0 +1,4 @@
+# Online-exam
+A online exam website built in PHP ,SQL and on frontend html,css,javascript
+# you only have to make a table name 'rdso' in 'test' named Database and add two columns in table 'rdso' named 'username' of type varchar and 'password' also of type 'varchar'.
+#After this the website runs fluently.
